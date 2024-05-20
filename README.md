@@ -42,8 +42,13 @@
 
 <hr/>
 
-## :mag: API <br/>
-1. 
+## :mag: API , SMTP<br/>
+<div> <a href="https://developers.kakao.com/docs/latest/ko/message/js-link"> 1. 카카오톡 : 친구 초대 API </a>  </div>
+<div> 더 많은 유저의 유입을 위해 카카오톡을 통한 친구 초대 API 를 이용하였습니다.</div>
+<div> <a href="https://developers.naver.com/docs/serviceapi/search/news/news.md"> 2. 네이버 : 뉴스 검색 API </div>
+<div> 해당 프로젝트에서 가계부 사용 내역을 기반으로 관련 뉴스를 추천하는 내용을 네이버 뉴스 검색 API를 통해 진행하였습니다.</div>
+<div> <a href="https://support.google.com/a/answer/176600?hl=ko"> 3. Gmail SMTP </a> </div>
+<div> 해당 프로젝트에서 계정의 비밀번호 찾기를 진행하게 되면 해당 계정의 이메일로 메일이 전송되는데 해당 기능을 구현하기 위해 Gmail의 SMTP를 사용하였습니다.</div>
 
   <hr/>
 
@@ -66,12 +71,6 @@
 
 ## 😀  해당 프로젝트 참가 멤버
 
-|이름|깃허브 주소|비고|
-|------|---|---|
-|김수홍|https://github.com/Kim0f85|테스트3|
-|송준호|https://github.com/SXNGJUNHX|테스트3|
-|장원준|https://github.com/juniel1299|테스트3|
-|정유진|https://github.com/zzzzzzin|테스트3|
-|정혜정|https://github.com/VVjD|테스트3|
-|지성근|https://github.com/sungken|테스트3|
-
+|<img src="https://avatars.githubusercontent.com/u/155717265?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/156043182?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/88925213?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[@Kim0f85](https://github.com/Kim0f85)|SXNGJUNHX<br/>[@SXNGJUNHX](https://github.com/SXNGJUNHX)|juniel1299<br/>[@juniel1299](https://github.com/juniel1299)|zin<br/>[@zzzzzzin](https://github.com/zzzzzzin)|[@VVjD](https://github.com/VVjD)|[@sungken](https://github.com/sungken)|
