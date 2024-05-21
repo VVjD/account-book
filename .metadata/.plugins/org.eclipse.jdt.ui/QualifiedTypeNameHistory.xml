@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.project.accountbook.account.repository.AccountDAO"/>
+    <fullyQualifiedTypeName name="com.project.accountbook.account.model.AccountInfoDTO"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+</qualifiedTypeNameHistroy>
