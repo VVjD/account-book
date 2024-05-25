@@ -19,28 +19,28 @@
 <hr/>
 <div align="left">
 <h2>  📕 Skill </h2> <br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br/>
-<img src="https://img.shields.io/badge/fontawesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=black"> <br/>
- <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <br/>
+ 
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <hr/>
 
 ## 📂 Collaborative Software <br/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   <br/> 
-<img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">   <br/> 
-<img src="https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">  <br/> 
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">   <br/> 
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   <hr/>
 
   ## :telescope: IDE <br/>
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">   <br/> 
-  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">   <br/> 
-
+  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 <hr/>
 
@@ -71,11 +71,17 @@
 <div><a href="https://github.com/AcountBookJSP/AccountBook/blob/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/JSP%20Project%20%EC%98%81%EC%83%81%20(%EC%99%84).mp4"> 시연 영상 </a></div>
 
 
+## 📹 시연 영상
+
+https://github.com/juniel1299/AccountBookProject/assets/62318700/8a2dd1c3-feea-44b1-8f00-411f89e6b58f
+
+
+
 ## 😀  해당 프로젝트 참가 멤버 및 역할
 
 |<img src="https://avatars.githubusercontent.com/u/155717265?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/156043182?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/88925213?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[@Kim0f85](https://github.com/Kim0f85)|SXNGJUNHX<br/>[@SXNGJUNHX](https://github.com/SXNGJUNHX)|juniel1299<br/>[@juniel1299](https://github.com/juniel1299)|zin<br/>[@zzzzzzin](https://github.com/zzzzzzin)|[@VVjD](https://github.com/VVjD)|[@sungken](https://github.com/sungken)|
+|[@Kim0f85](https://github.com/Kim0f85)|[@SXNGJUNHX](https://github.com/SXNGJUNHX)|[@juniel1299](https://github.com/juniel1299)|[@zzzzzzin](https://github.com/zzzzzzin)|[@VVjD](https://github.com/VVjD)|[@sungken](https://github.com/sungken)|
 |김수홍|송준호|장원준|정유진|정혜정|지성근|
 |가계부 CRUD|게시판 페이지|로그인 및 회원가입 관련 기능|개인정보 관리|대시보드(가계부 분석)|게시판 작성|
 |가계부 목록|게시판 CRUD|세션 및 쿠키 기능|게시판 이용 내역|마이페이지(친구초대)|게시판 조회|
