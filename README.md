@@ -1,26 +1,32 @@
 
 
-# 💻 Servlet/JSP 프로젝트
+# 💻 소비 패턴 분석을 통한 지출 관리 웹 서비스
 
- 프로젝트 진행 기간 4월 19일 ~ 5월 13일 (총 25일)  
- 프로젝트 총 인원 6명
----
+> 효율적인 돈관리를 위한 가계부 기능을 중심으로 가계부에 입력한 데이터를 기반으로 한 소비 패턴에 따른 카드에 대해 추천과 자산관리를 도와주는 프로그램과 그에 따른 이야기를 할 수 있는 커뮤니티 웹 사이트를 제작하였습니다.
 
-## 📝 요약
-효율적인 돈관리를 위한 가계부 기능을 중심으로 가계부에 입력한 데이터를 기반으로 한 소비 패턴에 따른 카드에 대해 추천과 자산관리를 도와주는 프로그램과 그에 따른 이야기를 할 수 있는 커뮤니티 홈페이지를 제작하였습니다.
+<br>
 
----
+- 개발 기간 : 2024/04/19 ~ 2024/05/13(4주)
+  
+- 개발 인원 : 6명
+
+<br>
+
 ## :pushpin: 상세기능
 1. 가계부 기능을 통해 나의 수입/지출을 정리하고 해당 데이터들을 기반으로 내가 주로 사용하는 카테고리를 분류하고 소비패턴을 분석한다.
 2. 가계부에 입력된 내용을 기반으로 분석하여 사용자의 효율적인 소비를 돕고 사용자의 소비와 관련된 내용의 뉴스기사 데이터를 제공한다.
 3. 소비 카테고리 별로 카드를 추천하고 가계부 기반으로 사용자가 어떤 카드를 썼을 때 혜택을 많이 볼 수 있는가를 분석해준다.
 4. 이용자들을 위한 커뮤니티 기능 (게시판) 존재
 
-<hr/>
-<div align="left">
-<h2>  📕 Skill </h2> <br/>
+<br>
+
+## 개발 환경
+
+<div>
  
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**SKILL** 
+ 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,21 +34,20 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<hr/>
 
-## 📂 Collaborative Software <br/>
+**Collaboration Tools**
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  <hr/>
 
-  ## :telescope: IDE <br/>
+
+**IDE**
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-<hr/>
+<br>
 
 ## :mag: API , SMTP<br/>
 <div> <a href="https://developers.kakao.com/docs/latest/ko/message/js-link"> 1. 카카오톡 : 친구 초대 API </a>  </div>
@@ -51,8 +56,6 @@
 <div> 해당 프로젝트에서 가계부 사용 내역을 기반으로 관련 뉴스를 추천하는 내용을 네이버 뉴스 검색 API를 통해 진행하였습니다.</div>
 <div> <a href="https://support.google.com/a/answer/176600?hl=ko"> 3. Gmail SMTP </a> </div>
 <div> 해당 프로젝트에서 계정의 비밀번호 찾기를 진행하게 되면 해당 계정의 이메일로 메일이 전송되는데 해당 기능을 구현하기 위해 Gmail의 SMTP를 사용하였습니다.</div>
-
-  <hr/>
 
   ## 📝 개발 문서 </br>
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/1.%EA%B8%B0%ED%9A%8D%EC%84%9C">1. 기획서 </a> </div>
@@ -68,24 +71,16 @@
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/9.%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C">9. PPT </a></div>
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/10.%20%EA%B0%9C%EB%B0%9C%EB%AC%B8%EC%84%9C/document">10. 개발문서 </a></div>
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/11.%20%EC%9A%94%EC%95%BD%EB%B3%B8"> 11. 요약본 </a></div>
-<div><a href="https://github.com/AcountBookJSP/AccountBook/blob/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/JSP%20Project%20%EC%98%81%EC%83%81%20(%EC%99%84).mp4"> 시연 영상 </a></div>
 
 
 ## 📹 시연 영상
-
-https://github.com/juniel1299/AccountBookProject/assets/62318700/8a2dd1c3-feea-44b1-8f00-411f89e6b58f
-
+https://github.com/AcountBookJSP/AccountBook/assets/128907052/27baad24-98b7-4db7-82b3-71141ac830a5
 
 
-## 😀  해당 프로젝트 참가 멤버 및 역할
 
-|<img src="https://avatars.githubusercontent.com/u/155717265?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/156043182?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/88925213?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/>|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|[@Kim0f85](https://github.com/Kim0f85)|[@SXNGJUNHX](https://github.com/SXNGJUNHX)|[@juniel1299](https://github.com/juniel1299)|[@zzzzzzin](https://github.com/zzzzzzin)|[@VVjD](https://github.com/VVjD)|[@sungken](https://github.com/sungken)|
-|김수홍|송준호|장원준|정유진|정혜정|지성근|
-|가계부 CRUD|게시판 페이지|로그인 및 회원가입 관련 기능|개인정보 관리|대시보드(가계부 분석)|게시판 작성|
-|가계부 목록|게시판 CRUD|세션 및 쿠키 기능|게시판 이용 내역|마이페이지(친구초대)|게시판 조회|
-|가계부 달력|게시판 검색|카드 추천 관련 기능 및 알고리즘|마이페이지 프론트|비밀번호 찾기/재설정|더미 데이터 생성|
-|가계부 프론트|카드 카테고리 별 추천|댓글 및 대댓글 기능|-|프론트 전체 CSS|View 데이터 생성|
-|트리거 작성|게시판 페이징|트리거/프로시저/스케줄러 작성|-|대시보드(목록/카드 사용 내역)|-|
+## 팀원 소개
+
+| **김수홍** | **송준호** | **장원준** | **정유진** | **정혜정** | **지성근** |
+| --- | --- | --- | --- | --- | --- |
+| [![](https://avatars.githubusercontent.com/u/155717265?v=4) <br> @Kim0f85](https://github.com/Kim0f85) | [![](https://avatars.githubusercontent.com/u/156043182?v=4) <br> @SXNGJUNHX](https://github.com/SXNGJUNHX) | [![](https://avatars.githubusercontent.com/u/62318700?v=4) <br> @juniel1299](https://github.com/juniel1299) | [![](https://avatars.githubusercontent.com/u/88925213?v=4) <br> @zzzzzzin](https://github.com/zzzzzzin) | [![](https://avatars.githubusercontent.com/u/128907052?v=4) <br> @VVjD](https://github.com/VVjD) | [![](https://avatars.githubusercontent.com/u/37370079?v=4) <br> @sungken](https://github.com/sungken) |
 
