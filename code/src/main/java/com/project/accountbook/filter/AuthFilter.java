@@ -42,7 +42,8 @@ public class AuthFilter implements Filter {
 					|| req.getRequestURI().endsWith("reportBoard.do")
 					|| req.getRequestURI().endsWith("attendanceBoard.do")
 					|| req.getRequestURI().contains("/account/account/")
-					|| req.getRequestURI().contains("/account/user/member/") && !req.getRequestURI().contains("reset-pw")) {
+					|| req.getRequestURI().contains("/account/user/member/") 
+			    		&& !req.getRequestURI().contains("reset-pw")) {
 				
 				HttpServletResponse httpResponse = (HttpServletResponse) response;
 		        httpResponse.sendRedirect("/account/user/login.do");
