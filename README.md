@@ -1,40 +1,14 @@
-# 💻 소비 패턴 분석을 통한 지출 관리 웹 서비스
+# 🐖 가계부 기입을 통한 소비 패턴 분석 및 카드 추천 웹 서비스
 
-> 효율적인 돈관리를 위한 가계부 기능을 중심으로 가계부에 입력한 데이터를 기반으로 한 소비 패턴에 따른 카드에 대해 추천과 자산관리를 도와주는 프로그램과 그에 따른 이야기를 할 수 있는 커뮤니티 홈페이지를 제작하였습니다.
+>  효율적인 돈관리를 위한 가계부 기능을 중심으로 가계부에 입력한 데이터를 기반으로 한 소비 패턴에 따른 카드에 대해 추천과 자산관리를 도와주는 프로그램과 그에 따른 이야기를 할 수 있는 커뮤니티 웹 사이트를 제작하였습니다.
 
 <br>
 
-- 개발 기간 : 2024/04/19 ~ 2024/05/13
+- 개발 기간 : 2024/04/19 ~ 2024/05/13(4주)
 
 - 개발 인원 : 6명
 
-<br>
-
-## :telescope: 개발 환경
-
-**IDE**   
-
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">  
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
-
-**SKILL**   
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/fontawesome-538DD7?style=flat-square&logo=fontawesome&logoColor=black"> 
- <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
-
-**Collaboration Tools**   
-
-
-
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/canva-00C4CC?style=flat-square&logo=canva&logoColor=white"> 
-<img src="https://img.shields.io/badge/googledocs-4285F4?style=flat-square&logo=googledocs&logoColor=white">  
-<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"> 
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">  
+- 발표 자료: https://accountbook.my.canva.site/
 
 <br>
 
@@ -47,7 +21,34 @@
 
 <br>
 
-## :mag: API , SMTP
+## 개발 환경
+
+<div>
+
+**SKILL** 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Collaboration Tools**
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+**IDE**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+<br>
+
+## :mag: API , SMTP<br/>
 
 <div> <a href="https://developers.kakao.com/docs/latest/ko/message/js-link"> 1. 카카오톡 : 친구 초대 API </a>  </div>
 <div> 더 많은 유저의 유입을 위해 카카오톡을 통한 친구 초대 API 를 이용하였습니다.</div>
@@ -56,9 +57,7 @@
 <div> <a href="https://support.google.com/a/answer/176600?hl=ko"> 3. Gmail SMTP </a> </div>
 <div> 해당 프로젝트에서 계정의 비밀번호 찾기를 진행하게 되면 해당 계정의 이메일로 메일이 전송되는데 해당 기능을 구현하기 위해 Gmail의 SMTP를 사용하였습니다.</div>
 
-<br>
-
-## 📝 문서
+## 📝 개발 문서 </br>
 
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/1.%EA%B8%B0%ED%9A%8D%EC%84%9C">1. 기획서 </a> </div>
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/2.%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C">2. 요구분석서 </a></div>
@@ -73,12 +72,49 @@
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/9.%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C">9. PPT </a></div>
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/10.%20%EA%B0%9C%EB%B0%9C%EB%AC%B8%EC%84%9C/document">10. 개발문서 </a></div>
 <div><a href="https://github.com/AcountBookJSP/AccountBook/tree/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/11.%20%EC%9A%94%EC%95%BD%EB%B3%B8"> 11. 요약본 </a></div>
-<div><a href="https://github.com/AcountBookJSP/AccountBook/blob/main/2%EC%A1%B0_jsp%EC%B5%9C%EC%A2%85/JSP%20Project%20%EC%98%81%EC%83%81%20(%EC%99%84).mp4"> 시연 영상 </a></div>
 
-<br>
+## 📹 시연 영상
+
+https://github.com/AcountBookJSP/AccountBook/assets/128907052/27baad24-98b7-4db7-82b3-71141ac830a5
 
 ## 팀원 소개
 
-| **김수홍**                                                                                                                                 | **송준호**                                                                                                                                     | **장원준**                                                                                                                                      | **정유진**                                                                                                                                  | **정혜정**                                                                                                                           | **지성근**                                                                                                                                |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img src="https://avatars.githubusercontent.com/u/155717265?v=4" width="150" height="150"/> <br> @Kim0f85](https://github.com/Kim0f85) | [<img src="https://avatars.githubusercontent.com/u/156043182?v=4" width="150" height="150"/> <br> @SXNGJUNHX](https://github.com/SXNGJUNHX) | [<img src="https://avatars.githubusercontent.com/u/62318700?v=4" width="150" height="150"/> <br> @juniel1299](https://github.com/juniel1299) | [<img src="https://avatars.githubusercontent.com/u/88925213?v=4" width="150" height="150"/> <br> @zzzzzzin](https://github.com/zzzzzzin) | [<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/> <br> @VVjD](https://github.com/VVjD) | [<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/> <br> @sungken](https://github.com/sungken) |
+| **김수홍**                                                                                                | **송준호**                                                                                                    | **장원준**                                                                                                     | **정유진**                                                                                                 | **정혜정**                                                                                          | **지성근**                                                                                               |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| [![](https://avatars.githubusercontent.com/u/155717265?v=4) <br> @Kim0f85](https://github.com/Kim0f85) | [![](https://avatars.githubusercontent.com/u/156043182?v=4) <br> @SXNGJUNHX](https://github.com/SXNGJUNHX) | [![](https://avatars.githubusercontent.com/u/62318700?v=4) <br> @juniel1299](https://github.com/juniel1299) | [![](https://avatars.githubusercontent.com/u/88925213?v=4) <br> @zzzzzzin](https://github.com/zzzzzzin) | [![](https://avatars.githubusercontent.com/u/128907052?v=4) <br> @VVjD](https://github.com/VVjD) | [![](https://avatars.githubusercontent.com/u/37370079?v=4) <br> @sungken](https://github.com/sungken) |
+
+### 김수홍
+
+- 기능
+  
+  - 가계부(CRUD, 구매 위시 목록, 목록), 트리거
+
+## 송준호
+
+- 기능
+  
+  - 게시판 홈, 게시물 CRUD, 카드 추천(카테고리별 추천)
+
+## 장원준
+
+- 기능
+  
+  - 회원가입, 로그인/로그아웃, 아이디 찾기, 댓글 CRUD, 마이페이지( 회원 탈퇴), 카드 추천(카테고리별 추천, 맞춤 추천), 트리거/프로시저/스케줄러
+
+## 정유진
+
+- 기능
+  
+  - 마이페이지(개인정보 관리, 게시판 이용 내역)
+
+## 정혜정
+
+- 기능
+  
+  - 비﻿밀번호 찾기, 비밀번호 재설정, 마이페이지(친구 초대), 가계부(목록, 분석, 카드 사용 내역)
+
+## 지성근
+
+- 기능
+  
+  - 게시물 작성 및 조회
